@@ -1,0 +1,221 @@
+/*font-family: 'PT Sans', sans-serif;*/
+*{margin: 0;
+padding: 0;}
+/*header start*/
+.header{
+    min-height: 100px;
+    width: auto;
+    overflow: hidden;
+    background-color: #fcdb00;
+}
+.wrapper{
+    min-height: 100px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.logo{
+    min-height: 100px;
+    width: 20%;
+    float: left;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.logo img{
+    float: left;
+    
+}
+
+.logo h1{
+    font-family: 'PT Sans', sans-serif;
+    float: left;
+    font-size: 35px;
+    padding-left: 5px;
+}
+.nav{
+    float: right;
+    width: 50%;
+}
+.nav ul{
+    float: right;
+}
+.nav ul li{
+    list-style: none;
+    float: left;
+}
+.nav ul li a{
+    padding: 10px 20px;
+    display: block;
+    text-decoration: none;
+    float: left;
+    color: black;
+    margin-top: 38px;
+}
+.nav ul li a:last-child {padding-right: 0;}
+/*header end*/
+/*banner start*/
+.banner{
+    min-height: 500px;
+    width: auto;
+    overflow: hidden;
+    background-color: #fcdb00;
+}
+.banner_wrapper{
+    min-height: 500px;
+    width: 80%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.banner_wrapper_two{
+    min-height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+.banner_text{
+    overflow: hidden;
+    min-height: 350px;
+    width: 30%;
+    padding-top: 95px;
+    float: left;
+}
+.banner_text h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 26px;
+}
+.banner_text img{
+    height: 30px;
+    width: 30px;
+    padding-left: 20px;
+}
+.banner_img{
+    float: right;
+    width: 25%;
+}
+/*banner end*/
+/*features sratr*/
+.features{
+    min-height: 700px;
+    width: auto;
+    overflow: hidden;
+}
+.block_one{
+    min-height: 100px;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 25px;
+}
+.pera_four{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+.pera_five{
+    text-align: center;
+    padding-top: 15px;
+}
+.block_two{
+    min-height: 400px;
+    width: auto;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.block_two_wrapper{
+    min-height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+.single{
+    min-height: 200px;
+    width: 32%;
+    float: left;
+    overflow: hidden;
+     padding-left: 16px;
+}
+.single_one{
+   
+    float: left;
+    width: 25%;
+}
+.single_text{
+    float: right;
+    width: 70%;
+}
+/*features end*/
+/*footer start*/
+.footer{
+    min-height: 600px;
+    width: auto;
+    overflow: hidden;
+    background-color: #010101;
+}
+.footer_wrapper{
+    min-height: 600px;
+    width: 80%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.footer_one{
+    min-height: 250px;
+    width: 80%;
+    margin: 0 auto;
+}
+.pera_one{
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    color: #fcdb00;
+    font-size: 35px;
+}
+.pera_two{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    color: seashell;
+}
+
+.form{
+    min-height: 50px;
+    width: 80%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.inputfile{
+    padding: 7px 11px;
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+}
+.button{
+        width: 10%;
+    padding: 6px;
+    background-color: yellow;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+}
+.footer_two{
+    min-height: 50px;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding-left: 50px;
+}
+.pera_three{
+    padding-left: 30px;
+}
+.footer_three{
+    min-height: 200px;
+    width: auto;
+    overflow: hidden;
+    margin-top: 70px;
+}
+.footer_text{
+    min-height: 200px;
+    width: 22%;
+    float: left;
+    color: white;
+    padding-left: 38px;
+    padding-top: 50px;
+}
+/*footer end*/
