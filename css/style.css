@@ -38,6 +38,7 @@ padding: 0;}
 }
 .nav ul{
     float: right;
+    padding-right: 60px;
 }
 .nav ul li{
     list-style: none;
@@ -89,7 +90,7 @@ padding: 0;}
 }
 .banner_img{
     float: right;
-    width: 25%;
+    width: 30%;
 }
 /*banner end*/
 /*features sratr*/
@@ -127,7 +128,7 @@ padding: 0;}
 }
 .single{
     min-height: 200px;
-    width: 32%;
+    width: 31%;
     float: left;
     overflow: hidden;
      padding-left: 16px;
@@ -212,7 +213,7 @@ padding: 0;}
 }
 .footer_text{
     min-height: 200px;
-    width: 22%;
+    width: 21%;
     float: left;
     color: white;
     padding-left: 38px;
